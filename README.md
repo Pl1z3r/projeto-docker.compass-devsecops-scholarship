@@ -159,5 +159,6 @@ Continue até finalizar a criação do auto Scaling group, após isso tudo já d
 
 ## Conclusões finais
 Após tudo devidamente definido, o resultado é um site publico de WordPress, com um banco de dados relacional gerido pela AWS, com arquivos estáticos salvos num EFS!
+Essa instalação é segura, escalável e resiliente.
 
-![WordPress pronto para configuração](images/wordpress-ready.png)WordPress
+![WordPress pronto para configuração](images/wordpress-ready.png)

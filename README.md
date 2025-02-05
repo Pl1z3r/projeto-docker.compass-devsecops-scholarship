@@ -1,4 +1,5 @@
 # Projeto Docker - WordPress
+![Banner Compass UOL](https://vetores.org/d/compass-uol.svg)
 ## Tecnologias Utilizadas
 1. Docker
     * Docker Compose
